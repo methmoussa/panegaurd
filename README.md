@@ -86,4 +86,3 @@ User photos remain in the current browser tab. The app stores compressed image d
 - [U.S. Fish & Wildlife Service — Threats to Birds: Collisions (Buildings & Glass)](https://www.fws.gov/story/threats-birds-collisions-buildings-glass)
 - [American Bird Conservancy — Solutions for Homes](https://abcbirds.org/strategies/solutions-for-homes/)
 - [United Nations — SDG 15: Life on Land](https://sdgs.un.org/goals/goal15)
-
