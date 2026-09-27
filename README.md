@@ -62,7 +62,7 @@ npm run build
 
 ## Routes
 
-See [SUBMISSION.md](SUBMISSION.md) for submission copy, a 60-second demo script, and local judging setup. A generated example is in `output/pdf/PaneGuard-sample-plan.pdf`.
+See [SUBMISSION.md](SUBMISSION.md) for Devpost copy and live screenshots from a real-photo journey. [demo/README.md](demo/README.md) documents the photograph's license and illustrative test inputs. Generated examples are in `output/pdf/`.
 
 - `/` — product story and entry point
 - `/check` — window photo and assessment

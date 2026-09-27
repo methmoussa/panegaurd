@@ -1,0 +1,5 @@
+# Real-photo demo assets
+
+`window-photo.jpg` is a photograph of a real window used for the live upload test and `screenshots/comparison.png`. It is [*Picture window, Westbury Park* by Derek Harper](https://commons.wikimedia.org/wiki/File:Picture_window,_Westbury_Park_-_geograph.org.uk_-_7550045.jpg), sourced from Wikimedia Commons and licensed [Creative Commons Attribution-ShareAlike 2.0](https://creativecommons.org/licenses/by-sa/2.0/). The local file is a resized copy. The comparison screenshot adds PaneGuard's UI and an illustrative dot overlay; retain the photographer credit, source, and license when sharing it.
+
+The test answers and **36 × 24 in** glass dimensions are examples, not verified observations or measurements of this property. The overlay assumes the full image is glass, so it also appears on the visible frame. This is a current preview limitation. `screenshots/home.png` shows the site's illustrated hero; `screenshots/plan.png` and `output/pdf/PaneGuard-window-plan-demo.pdf` show the example generated plan.
