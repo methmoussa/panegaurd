@@ -1,6 +1,6 @@
 # PaneGuard — Next Byte Hacks V4 submission copy
 
-The sections from **Project name** through **What's next** are ready to paste into Devpost. The asset notes at the end are for submission assembly.
+The sections from **Project name** through **Demo image credit** are ready to paste into Devpost. The asset notes at the end are for submission assembly.
 
 ## Project name
 
@@ -48,6 +48,10 @@ The [American Bird Conservancy's home guidance](https://abcbirds.org/strategies/
 ## What's next
 
 Next steps include testing the flow with homeowners, adding a way to mark the exact glass boundary, validating layouts against physical products and measurements, and testing accessibility on physical mobile devices. PaneGuard remains an education and planning prototype; decorative motif variants have not been independently tested or certified as bird-safe products.
+
+## Demo image credit
+
+The comparison screenshot adapts [*Picture window, Westbury Park* by Derek Harper](https://commons.wikimedia.org/wiki/File:Picture_window,_Westbury_Park_-_geograph.org.uk_-_7550045.jpg), licensed [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). The pictured assessment responses and 36 × 24 in dimensions are illustrative examples, not observations or measurements of that property.
 
 ## Submission assets and attribution (do not paste as project description)
 
