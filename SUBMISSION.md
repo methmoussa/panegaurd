@@ -13,7 +13,7 @@ Turn a window photo into a bird-friendly design and a practical treatment plan.
 ## Live demo and code
 
 - Live demo: <https://paneguard.pages.dev/>
-- Public GitHub repository: <https://github.com/methmoussa/panegaurd>
+- Public GitHub repository: <https://github.com/methmoussa/paneguard>
 
 ## Inspiration
 
@@ -58,4 +58,4 @@ Next steps include testing the flow with homeowners, adding a way to mark the ex
 
 The real-window photo in the comparison is [*Picture window, Westbury Park* by Derek Harper](https://commons.wikimedia.org/wiki/File:Picture_window,_Westbury_Park_-_geograph.org.uk_-_7550045.jpg), licensed [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). The comparison screenshot is an adaptation that adds PaneGuard's interface and preview; credit the photographer and license wherever the screenshot is published. The home hero is an illustration, not a real photograph. See [demo/README.md](demo/README.md) for the test inputs and attribution.
 
-Before submitting, confirm entrant eligibility and the event's timing and disclosure rules, select the required Devpost fields, and decide whether to rename the public repository from `panegaurd` to `paneguard`. The existing link above reflects the current spelling.
+Before submitting, confirm entrant eligibility and the event's timing and disclosure rules, then complete the required Devpost fields.
